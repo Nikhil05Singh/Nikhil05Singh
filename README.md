@@ -8,7 +8,7 @@ I specialize in developing scalable web applications and have a keen interest in
 - 🔭 I’m currently working on [MERN Project]
 - 🌱 I’m currently learning [Spring Boot]
 - 💬 Ask me about anything related to [Software devlopment]
-- 📫 How to reach me: [your-email@example.com](mailto:singh0507nikhil@gmail.com)
+- 📫 How to reach me: [singh0507nikhil@gmail.com](mailto:singh0507nikhil@gmail.com)
 - ⚡ Fun fact: I love exploring new hiking trails in my free time.
 
 ## 🛠️ Skills
